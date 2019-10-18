@@ -1,6 +1,6 @@
-﻿# [Kly_Men_COmpany](https://github.com/aleksusklim/Kly_Men_COmpany "Kly_Men_COmpany")/[Games](https://github.com/aleksusklim/Kly_Men_COmpany/tree/master/Games "Kly_Men_COmpany/Games/")/[Fountains](https://github.com/aleksusklim/Fountains "Kly_Men_COmpany/Games/Fountains/")/
+# Fountains
 
-The project is stored in [project/Fountains.gmk](./project/Fountains.gmk).
+Game.
 
 ## Download:
 
@@ -12,8 +12,4 @@ The project is stored in [project/Fountains.gmk](./project/Fountains.gmk).
 - [v1.1](http://klimaleksus.narod.ru/Files/4/Fountains1V1.rar) _(1.73 Mb)_
 - [v1.0](http://klimaleksus.narod.ru/Files/4/Fountains1V0.rar) _(1.73 Mb)_
 
----
-
-_[Back](https://github.com/aleksusklim/Kly_Men_COmpany/tree/master/Games "Kly_Men_COmpany/Games/")_
-
-_[Home](https://github.com/aleksusklim/Kly_Men_COmpany "Kly_Men_COmpany")_
+### Return to [Kly_Men_COmpany](https://github.com/aleksusklim/Kly_Men_COmpany "GitHub: aleksusklim/Kly_Men_COmpany")
